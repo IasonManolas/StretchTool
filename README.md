@@ -1,11 +1,12 @@
-# StretchTool
-![image](https://github.com/user-attachments/assets/0eb0bdc1-1738-4374-a9b6-1816f96380ac)
+![Uploading image.png…]()
 
+# StretchTool
 I did this project for the lesson of computer graphics taught by Konstantinos Moustakas.
 
 It had mainly to do with implementing a tool that stretches a model according to some weights given by the user. It was implemented using C++ and OpenGL.
 In the beginning I implemented ray cast picking.
 After that I used ray cast picking to create a brush drawing tool. The user can set the brushes colour (rgb),radius,hardness and permeability (draw both sides of the model). By clicking and draging the cursor above the models surface the user assigns colours to the models vertices.
+![image](https://github.com/user-attachments/assets/cc651b01-ba36-49e0-8147-e92c272d732d)
 
 ![image](https://github.com/user-attachments/assets/ab751352-63e3-4851-9f9b-631fd1258e64)
 
